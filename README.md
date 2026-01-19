@@ -161,4 +161,4 @@ If you use this work in academic writing, please cite the Google Borg dataset ap
 
 ## Authors
 
-Yatharth Garg & Yogesh Mehta
+**Yatharth Garg & Yogesh Mehta**
