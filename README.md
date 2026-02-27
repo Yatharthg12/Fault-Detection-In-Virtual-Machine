@@ -155,7 +155,7 @@ This project is intended for:
 - Fault detection experimentation
 - Reproducible systems analysis
 
-If you use this work in academic writing, please cite the Google Borg dataset appropriately.
+If you use this work in academic writing, please cite this work and the Google Borg dataset appropriately.
 
 ---
 
